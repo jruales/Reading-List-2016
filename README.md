@@ -40,6 +40,8 @@ Stanford deep learning tutorial: http://ufldl.stanford.edu/
 Blog Series - Christopher Olah - Neural Network Tutorials
 http://colah.github.io/
 
+Blog Series - Andrej Karpathy - Deep Learning - http://karpathy.github.io/
+
 Colorizing black and white photos with deep learning https://news.ycombinator.com/item?id=10864801
 
 Stan User's Guide and Reference Manual http://mc-stan.org/documentation/
