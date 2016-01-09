@@ -44,6 +44,12 @@ Colorizing black and white photos with deep learning https://news.ycombinator.co
 
 Stan User's Guide and Reference Manual http://mc-stan.org/documentation/
 
+Tensorflow tutorials https://www.tensorflow.org/versions/master/tutorials/index.html
+
+Torch tutorials http://torch.ch/
+
+React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
+
 Khan Academy - Pixar in a Box
 https://www.khanacademy.org/partner-content/pixar
 
