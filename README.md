@@ -23,8 +23,6 @@ http://www1.cs.columbia.edu/~belhumeur/courses/biometrics/2013/biometrics.html
 Cornell University - Steve Marschner - CS6630 Realistic Image Synthesis
 http://www.cs.cornell.edu/Courses/cs6630/2015fa/index.shtml#
 
-Duke University - Computational Statistics in Python - http://people.duke.edu/~ccc14/sta-663/
-
 Stanford University - Mark Levoy - CS 178 - Digital Photography
 http://graphics.stanford.edu/courses/cs178/
 
@@ -37,6 +35,8 @@ http://cs231n.stanford.edu/
 University of Oxford - Nando di Freitas - Machine Learning (includes Neural Networks in Torch, RNNs and LSTMs, Alex Graves's handwritten recognition, variational autoencoders, reinforcement learning) - https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 
 ## Tutorials, blogs, videos, etc.
+
+Duke University - Computational Statistics in Python - http://people.duke.edu/~ccc14/sta-663/
 
 Stanford deep learning tutorial: http://ufldl.stanford.edu/
 
