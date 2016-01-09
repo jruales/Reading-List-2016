@@ -64,6 +64,10 @@ Reinforcement Learning: An Introduction (e-book) by Richard S. Sutton and Andrew
 
 Pattern Recognition and Machine Learning by Christopher Bishop
 
+Elements of Programming Interviews by Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash
+
+Cracking the Coding Interview by Gayle Laakmann McDowell
+
 Tons of free old (>10 years old) math books: https://gist.github.com/bishboria/8326b17bbd652f34566a
 
 ## Research Papers
@@ -80,10 +84,12 @@ Don't Make Me Think by Steve Krug
 
 The Design of Everyday Things by Donald ("Don") Norman
 
-"Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character
+"Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character by Richard Feynman
 
 Moonwalking with Einstein by Joshua Foer
 
 Ready Player One by Ernest Cline
 
 Pro JavaScript Techniques by Russ Ferguson, John Paxton, and John Resig
+
+El héroe discreto by Mario Vargas Llosa
