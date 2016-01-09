@@ -5,6 +5,9 @@
 Columbia University - Tony Jebara - Machine Learning 4771
 http://www.cs.columbia.edu/~jebara/4771/
 
+Columbia University - Tony Jebara - Adv. Machine Learning 4771
+http://www.cs.columbia.edu/~jebara/4772/
+
 Columbia University - Michael Collins - Natural Language Processing 4705
 http://www.cs.columbia.edu/~cs4705/
 
