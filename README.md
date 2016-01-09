@@ -42,6 +42,8 @@ http://colah.github.io/
 
 Colorizing black and white photos with deep learning https://news.ycombinator.com/item?id=10864801
 
+Stan User's Guide and Reference Manual http://mc-stan.org/documentation/
+
 Khan Academy - Pixar in a Box
 https://www.khanacademy.org/partner-content/pixar
 
@@ -56,14 +58,26 @@ Reinforcement Learning: An Introduction (e-book) by Richard S. Sutton and Andrew
 
 Pattern Recognition and Machine Learning by Christopher Bishop
 
-Don't Make Me Think by Steve Krug
-
-The Design of Everyday Things by Donald ("Don") Norman
-
 Tons of free old (>10 years old) math books: https://gist.github.com/bishboria/8326b17bbd652f34566a
 
 ## Research Papers
 
 GitXiv: http://gitxiv.com/
 
+Variational Inference: A Review for Statisticians by David M. Blei, Alp Kucukelbir, and Jon D. McAuliffe http://arxiv.org/abs/1601.00670
+
 Texture Synthesis Using Convolutional Neural Networks http://arxiv.org/abs/1505.07376
+
+## Books
+
+Don't Make Me Think by Steve Krug
+
+The Design of Everyday Things by Donald ("Don") Norman
+
+"Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character
+
+Moonwalking with Einstein by Joshua Foer
+
+Ready Player One by Ernest Cline
+
+Pro JavaScript Techniques by Russ Ferguson, John Paxton, and John Resig
