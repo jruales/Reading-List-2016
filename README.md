@@ -73,6 +73,8 @@ Elements of Programming Interviews by Adnan Aziz, Tsung-Hsien Lee, and Amit Prak
 
 Cracking the Coding Interview by Gayle Laakmann McDowell
 
+Convex Optimization: Algorithms and Complexity by Sébastien Bubeck http://arxiv.org/pdf/1405.4980.pdf
+
 Tons of free old (>10 years old) math books: https://gist.github.com/bishboria/8326b17bbd652f34566a
 
 ## Research Papers
