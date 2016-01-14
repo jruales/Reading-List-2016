@@ -1,6 +1,8 @@
 # Reading List 2016
 
-## Online Course Notes (Review)
+## Online Course Notes
+
+### Taken Before (Review These)
 
 Columbia University - Tony Jebara - Machine Learning 4771
 http://www.cs.columbia.edu/~jebara/4771/
@@ -15,7 +17,7 @@ Columbia University - John Paisley - Bayesian Models for Machine Learning: http:
 
 Columbia University - David Blei - Foundations of Graphical Models: http://www.cs.columbia.edu/~blei/fogm/2015F/index.html
 
-## Online Course Notes
+### Not Taken Before
 
 Columbia University - Peter Belhumeur - Biometrics
 http://www1.cs.columbia.edu/~belhumeur/courses/biometrics/2013/biometrics.html
@@ -36,6 +38,8 @@ University of Oxford - Nando di Freitas - Machine Learning (includes Neural Netw
 
 ## Tutorials, blogs, videos, etc.
 
+### Math & Machine Learning
+
 Duke University - Computational Statistics in Python - http://people.duke.edu/~ccc14/sta-663/
 
 Stanford deep learning tutorial: http://ufldl.stanford.edu/
@@ -53,29 +57,17 @@ Tensorflow tutorials https://www.tensorflow.org/versions/master/tutorials/index.
 
 Torch tutorials http://torch.ch/
 
+### Web Dev
+
 React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
 
-Khan Academy - Pixar in a Box
-https://www.khanacademy.org/partner-content/pixar
+### Graphics
 
-Benedikt Bitterli - The secret life of photons (Blog Post tutorial on light transport) -
-https://benedikt-bitterli.me/tantalum/
+Eric Jang's List of Computer Graphics Resources - https://github.com/ericjang/awesome-graphics
 
-## Textbooks
+Khan Academy - Pixar in a Box - https://www.khanacademy.org/partner-content/pixar
 
-(In Preparation) Deep Learning by Ian Goodfellow, Aaron Courville, and Yoshua Bengio https://goodfeli.github.io/dlbook/
-
-Reinforcement Learning: An Introduction (e-book) by Richard S. Sutton and Andrew G. Barto - https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html
-
-Pattern Recognition and Machine Learning by Christopher Bishop
-
-Elements of Programming Interviews by Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash
-
-Cracking the Coding Interview by Gayle Laakmann McDowell
-
-Convex Optimization: Algorithms and Complexity by Sébastien Bubeck http://arxiv.org/pdf/1405.4980.pdf
-
-Tons of free old (>10 years old) math books: https://gist.github.com/bishboria/8326b17bbd652f34566a
+Benedikt Bitterli - The secret life of photons (Blog Post tutorial on light transport) - https://benedikt-bitterli.me/tantalum/
 
 ## Research Papers
 
@@ -85,18 +77,66 @@ Variational Inference: A Review for Statisticians by David M. Blei, Alp Kucukelb
 
 Texture Synthesis Using Convolutional Neural Networks http://arxiv.org/abs/1505.07376
 
-## Books
+## Textbooks
 
-Don't Make Me Think by Steve Krug
+### Math & Machine Learning
 
-The Design of Everyday Things by Donald ("Don") Norman
+(In Preparation) Deep Learning by Ian Goodfellow, Aaron Courville, and Yoshua Bengio https://goodfeli.github.io/dlbook/
 
-"Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character by Richard Feynman
+Reinforcement Learning: An Introduction (e-book) by Richard S. Sutton and Andrew G. Barto - https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html
 
-Moonwalking with Einstein by Joshua Foer
+Pattern Recognition and Machine Learning by Christopher Bishop
 
-Ready Player One by Ernest Cline
+Convex Optimization: Algorithms and Complexity by Sébastien Bubeck http://arxiv.org/pdf/1405.4980.pdf
+
+Tons of free old (>10 years old) math books: https://gist.github.com/bishboria/8326b17bbd652f34566a
+
+### Piano
+
+The Virtuoso Pianist in 60 Exercises by Charles-Louis Hanon
+
+Mikrokosmos by Béla Bartók
+
+### Software
+
+Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
+
+Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma
 
 Pro JavaScript Techniques by Russ Ferguson, John Paxton, and John Resig
 
+Elements of Programming Interviews by Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash
+
+Cracking the Coding Interview by Gayle Laakmann McDowell
+
+## Books
+
+### Fiction
+
+Ready Player One by Ernest Cline
+
 El héroe discreto by Mario Vargas Llosa
+
+The Goldfinch by Donna Tartt
+
+### Non-Fiction -- Instructive
+
+The Design of Everyday Things by Donald ("Don") Norman
+
+Don't Make Me Think by Steve Krug
+
+Rocket Surgery Made Easy by Steve Krug
+
+Understanding Comics: The Invisible Art by Scott McCloud
+
+Moonwalking with Einstein by Joshua Foer
+
+Mindset: The New Psychology of Success by Carol Dweck
+
+### Non-Fiction -- Biographical/Historical
+
+"Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character by Richard Feynman
+
+Buffett: The Making of an American Capitalist by Roger Lowenstein
+
+The Idea Factory: Bell Labs and the Great Age of American Innovation by Jon Gertner
