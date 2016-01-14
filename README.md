@@ -113,7 +113,7 @@ Cracking the Coding Interview by Gayle Laakmann McDowell
 
 ### Fiction
 
-Ready Player One by Ernest Cline
+[4% done] Ready Player One by Ernest Cline
 
 El héroe discreto by Mario Vargas Llosa
 
@@ -121,13 +121,13 @@ The Goldfinch by Donna Tartt
 
 ### Non-Fiction -- Instructive
 
-The Design of Everyday Things by Donald ("Don") Norman
+[32% done] The Design of Everyday Things by Donald ("Don") Norman
 
-Don't Make Me Think by Steve Krug
+[28% done] Don't Make Me Think by Steve Krug
+
+[26% done] Understanding Comics: The Invisible Art by Scott McCloud
 
 Rocket Surgery Made Easy by Steve Krug
-
-Understanding Comics: The Invisible Art by Scott McCloud
 
 Moonwalking with Einstein by Joshua Foer
 
@@ -135,7 +135,7 @@ Mindset: The New Psychology of Success by Carol Dweck
 
 ### Non-Fiction -- Biographical/Historical
 
-"Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character by Richard Feynman
+[27% done] "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character by Richard Feynman
 
 Buffett: The Making of an American Capitalist by Roger Lowenstein
 
