@@ -89,13 +89,17 @@ http://colah.github.io/
 
 * Mikrokosmos by Béla Bartók
 
-### Software
+### Software Engineering
 
 * Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 
 * Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma
 
+### Programming Languages
+
 * Pro JavaScript Techniques by Russ Ferguson, John Paxton, and John Resig
+
+### Algorithms and Data Structures
 
 * Elements of Programming Interviews by Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash
 
