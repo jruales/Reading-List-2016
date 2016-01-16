@@ -34,20 +34,22 @@
 
 * Duke University - Computational Statistics in Python - http://people.duke.edu/~ccc14/sta-663/
 
-* Stanford deep learning tutorial: http://ufldl.stanford.edu/
+* Stanford deep learning tutorial - http://ufldl.stanford.edu/
 
 * Blog Series - Christopher Olah - Neural Network Tutorials
 http://colah.github.io/
 
 * Blog Series - Andrej Karpathy - Deep Learning - http://karpathy.github.io/
 
-* Colorizing black and white photos with deep learning https://news.ycombinator.com/item?id=10864801
+* Colorizing black and white photos with deep learning - https://news.ycombinator.com/item?id=10864801
 
-* Stan User's Guide and Reference Manual http://mc-stan.org/documentation/
+* Stan User's Guide and Reference Manual - http://mc-stan.org/documentation/
 
-* Tensorflow tutorials https://www.tensorflow.org/versions/master/tutorials/index.html
+* Tensorflow tutorials - https://www.tensorflow.org/versions/master/tutorials/index.html
 
-* Torch tutorials http://torch.ch/
+* Torch tutorials - http://torch.ch/
+
+* Microsoft Research NIPS 2015 Videos - http://research.microsoft.com/apps/catalog/default.aspx?t=videos
 
 ### Web Dev
 
