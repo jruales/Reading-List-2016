@@ -133,7 +133,7 @@ http://colah.github.io/
 
 ### Non-Fiction -- Biographical/Historical
 
-* [27% done] "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character by Richard Feynman
+* [40% done] "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character by Richard Feynman
 
 * Buffett: The Making of an American Capitalist by Roger Lowenstein
 
