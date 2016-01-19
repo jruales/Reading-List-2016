@@ -40,8 +40,7 @@
 
 * Stanford deep learning tutorial - http://ufldl.stanford.edu/
 
-* Blog Series - Christopher Olah - Neural Network Tutorials
-http://colah.github.io/
+* Blog Series - Christopher Olah - Neural Network Tutorials - http://colah.github.io/
   * Neural Networks (General)
     * Neural Networks, Manifolds, and Topology
     * Deep Learning, NLP, and Representations
