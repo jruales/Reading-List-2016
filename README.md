@@ -151,6 +151,9 @@
 * Reinforcement Learning: An Introduction (e-book) by Richard S. Sutton and Andrew G. Barto - https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html
 * Pattern Recognition and Machine Learning by Christopher Bishop
 * Convex Optimization: Algorithms and Complexity by Sébastien Bubeck http://arxiv.org/pdf/1405.4980.pdf
+* {Some book on OpenCV in Python}
+* {Some book on AWS}
+* {Some book on Hadoop, Hive, Spark, and such}
 
 ### Piano
 * The Virtuoso Pianist in 60 Exercises by Charles-Louis Hanon
@@ -164,6 +167,7 @@
 * Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma
 
 ### Programming Languages
+* The C Programming Language by Brian Kernighan and Dennis Ritchie
 * Pro JavaScript Techniques by Russ Ferguson, John Paxton, and John Resig
 * The Swift Programming Language
 
