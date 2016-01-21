@@ -189,6 +189,7 @@
 * El héroe discreto by Mario Vargas Llosa {Personally recommended by C.S. in early 2016 to enrich my Spanish vocabulary and syntax}
 * The Goldfinch by Donna Tartt {Personally recommended by H.M.}
 * Harry Potter e la pietra filosofale by J. K. Rowling {Personally recommended by H.M. in 2015. While recommended in English, I'll read it in Italian to practice the language}
+* Flatland: A romance of many dimensions by Edwin A. Abbott {Personally recommended by G.C. many years ago}
 
 ### Non-Fiction -- Instructive
 * [35% done] How To Win Friends and Influence People by Dale Carnegie {Personally recommended by M.Y. in 2015}
