@@ -144,12 +144,19 @@
 * Variational Inference: A Review for Statisticians by David M. Blei, Alp Kucukelbir, and Jon D. McAuliffe http://arxiv.org/abs/1601.00670
 * Texture Synthesis Using Convolutional Neural Networks http://arxiv.org/abs/1505.07376
 
+## Podcasts
+
+* Italiano Automatico
+* Planet Money {Personally recommended by E.Z. in late 2015}
+* The New Yorker: Fiction {Personally recommended by E.Z. in late 2015}
+* Serial {Personally recommended by E.Z. in late 2015}
+
 ## Textbooks
 
 ### Math & Machine Learning
 * (In Preparation) Deep Learning by Ian Goodfellow, Aaron Courville, and Yoshua Bengio https://goodfeli.github.io/dlbook/
 * Reinforcement Learning: An Introduction (e-book) by Richard S. Sutton and Andrew G. Barto - https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html
-* Pattern Recognition and Machine Learning by Christopher Bishop
+* Pattern Recognition and Machine Learning by Christopher Bishop {Recommended to me by several professors}
 * Convex Optimization: Algorithms and Complexity by Sébastien Bubeck http://arxiv.org/pdf/1405.4980.pdf
 * {Some book on OpenCV in Python}
 * {Some book on AWS}
@@ -157,19 +164,19 @@
 
 ### Piano
 * The Virtuoso Pianist in 60 Exercises by Charles-Louis Hanon
-* Mikrokosmos by Béla Bartók
+* Mikrokosmos by Béla Bartók {Personally recommended by R.R.}
 
 ### Graphic Design
 * Illustrator: Visual Quickstart Guide
 
 ### Software Engineering
 * Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
-* Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma
+* Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma {Personally recommended by D.R.}
 
 ### Programming Languages
 * The C Programming Language by Brian Kernighan and Dennis Ritchie
 * Pro JavaScript Techniques by Russ Ferguson, John Paxton, and John Resig
-* The Swift Programming Language
+* The Swift Programming Language {Heard about the book in a Columbia hackathon}
 
 ### Algorithms and Data Structures
 * Elements of Programming Interviews by Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash
@@ -178,19 +185,21 @@
 ## Books
 
 ### Fiction
-* [4% done] Ready Player One by Ernest Cline
-* El héroe discreto by Mario Vargas Llosa
-* The Goldfinch by Donna Tartt
+* [4% done] Ready Player One by Ernest Cline {Recommended on Andrej Karpathy's Goodreads reviews}
+* El héroe discreto by Mario Vargas Llosa {Personally recommended by C.S. in early 2016 to enrich my Spanish vocabulary and syntax}
+* The Goldfinch by Donna Tartt {Personally recommended by H.M.}
+* Harry Potter e la pietra filosofale by J. K. Rowling {Personally recommended by H.M. in 2015. While recommended in English, I'll read it in Italian to practice the language}
 
 ### Non-Fiction -- Instructive
-* [32% done] The Design of Everyday Things by Donald ("Don") Norman
-* [28% done] Don't Make Me Think by Steve Krug
-* [26% done] Understanding Comics: The Invisible Art by Scott McCloud
-* Rocket Surgery Made Easy by Steve Krug
-* Moonwalking with Einstein by Joshua Foer
-* Mindset: The New Psychology of Success by Carol Dweck
+* [35% done] How To Win Friends and Influence People by Dale Carnegie {Personally recommended by M.Y. in 2015}
+* [32% done] The Design of Everyday Things by Donald ("Don") Norman {Recommended on Coursera's HCI course I took several years ago}
+* [28% done] Don't Make Me Think: A Common Sense Approach to Web Usability by Steve Krug {Recommended on Coursera's HCI course?}
+* [26% done] Understanding Comics: The Invisible Art by Scott McCloud {Recommended on Bret Victor's website, I found out about it in early 2016}
+* Rocket Surgery Made Easy by Steve Krug {Probably advertised within "Don't Make Me Think"}
+* Moonwalking with Einstein by Joshua Foer {Mentioned in passing by M.C. in late 2015}
+* Mindset: The New Psychology of Success by Carol Dweck {Advocated by Khan Academy and recommended on Gates Notes blog}
 
 ### Non-Fiction -- Biographical/Historical
-* [40% done] "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character by Richard Feynman
-* Buffett: The Making of an American Capitalist by Roger Lowenstein
-* The Idea Factory: Bell Labs and the Great Age of American Innovation by Jon Gertner
+* [40% done] "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character by Richard Feynman {Recommended on Andrej Karpathy's Goodreads reviews}
+* Buffett: The Making of an American Capitalist by Roger Lowenstein {Personally recommended by M.C. in late 2015}
+* The Idea Factory: Bell Labs and the Great Age of American Innovation by Jon Gertner {Recommended on Andrej Karpathy's Goodreads reviews}
