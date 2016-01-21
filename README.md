@@ -164,7 +164,7 @@
 
 ### Piano
 * The Virtuoso Pianist in 60 Exercises by Charles-Louis Hanon
-* Mikrokosmos by Béla Bartók {Personally recommended by R.R.}
+* Mikrokosmos by Béla Bartók {Personally recommended by R.R. in early 2016}
 
 ### Graphic Design
 * Illustrator: Visual Quickstart Guide
