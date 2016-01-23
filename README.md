@@ -18,6 +18,7 @@
 * Stanford University - Mark Levoy - CS 178 - Digital Photography - http://graphics.stanford.edu/courses/cs178/
 * Stanford University - Richard Socher - Deep Learning for NLP CS224d - http://cs224d.stanford.edu/
 * Stanford University - Andrej Karpathy - Convolutional Neural Networks for Computer Vision CS231n - http://cs231n.stanford.edu/
+* Stanford University - Matthew Hoffman - Statistics 300: Advanced topics in Statistics: Bayesian nonparametrics - Summer 2013 - http://www.cs.princeton.edu/~mdhoffma/stat300/index.html
 * University of Oxford - Nando di Freitas - Machine Learning (includes Neural Networks in Torch, RNNs and LSTMs, Alex Graves's handwritten recognition, variational autoencoders, reinforcement learning) - https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 
 ## Tutorials, blogs, videos, etc.
@@ -144,6 +145,7 @@
 * GitXiv: http://gitxiv.com/
 * Variational Inference: A Review for Statisticians by David M. Blei, Alp Kucukelbir, and Jon D. McAuliffe http://arxiv.org/abs/1601.00670
 * Texture Synthesis Using Convolutional Neural Networks http://arxiv.org/abs/1505.07376
+* Adobe Research Publications - http://www.adobe.com/technology/publications.html
 
 ## Podcasts
 
