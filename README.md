@@ -176,6 +176,7 @@
 
 ### Programming Languages
 * The C Programming Language by Brian Kernighan and Dennis Ritchie
+* Dive Into Python by Mark Pilgrim - http://www.diveintopython.net/toc/index.html {Personally recommended by A.N. in early 2016}
 * Pro JavaScript Techniques by Russ Ferguson, John Paxton, and John Resig
 * The Swift Programming Language {Heard about the book in a Columbia hackathon}
 
