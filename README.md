@@ -27,6 +27,7 @@
 ### Math & Machine Learning
 * Duke University - Computational Statistics in Python - http://people.duke.edu/~ccc14/sta-663/
 * Stanford deep learning tutorial - http://ufldl.stanford.edu/
+* Visualizing CNN architectures side by side with mxnet - Joseph Paul Cohen - http://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/
 * Blog Series - Christopher Olah - Neural Network Tutorials - http://colah.github.io/
   * Neural Networks (General)
     * Neural Networks, Manifolds, and Topology
