@@ -59,6 +59,7 @@
   * Nov 23, 2013 - Chrome Extension Programming: Illustrating a Basic Survival Skill with a Twitter Case Study - http://karpathy.github.io/2013/11/23/chrome-extension-programming/
   * Oct 22, 2012 - The state of Computer Vision and AI: we are really, really far away. - http://karpathy.github.io/2012/10/22/state-of-computer-vision/
   * Apr 27, 2011 - Lessons learned from manually classifying CIFAR-10 - http://karpathy.github.io/2011/04/27/manually-classifying-cifar10/
+* Deep Learning Glossary - WildML Blog (by Denny Britz) - http://www.wildml.com/deep-learning-glossary
 * Colorizing black and white photos with deep learning - https://news.ycombinator.com/item?id=10864801
 * Stan User's Guide and Reference Manual - http://mc-stan.org/documentation/
 * Tensorflow tutorials - https://www.tensorflow.org/versions/master/tutorials/index.html
