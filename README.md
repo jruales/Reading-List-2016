@@ -10,6 +10,7 @@
 * Columbia University - David Blei - Foundations of Graphical Models - http://www.cs.columbia.edu/~blei/fogm/2015F/index.html
 
 ### Not Taken Before
+* Caltech - Richard Feynman, Robert Leighton, and Matthew Sands - The Feynman Lectures on Physics - http://www.feynmanlectures.caltech.edu/
 * Columbia University - David Blei - Probabilistic Models for Discrete Data - F Mudd 327
 * Columbia University - David Blei - Truth in Data - http://www.cs.columbia.edu/~blei/seminar/2015_truth_in_data/
 * Columbia University - Peter Belhumeur - Biometrics - http://www1.cs.columbia.edu/~belhumeur/courses/biometrics/2013/biometrics.html
