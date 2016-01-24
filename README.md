@@ -146,6 +146,9 @@
 * Variational Inference: A Review for Statisticians by David M. Blei, Alp Kucukelbir, and Jon D. McAuliffe http://arxiv.org/abs/1601.00670
 * Texture Synthesis Using Convolutional Neural Networks http://arxiv.org/abs/1505.07376
 * Adobe Research Publications - http://www.adobe.com/technology/publications.html
+* Microsoft Research Publications - http://research.microsoft.com/apps/catalog/default.aspx?t=publications
+* Google Research Publications - http://research.google.com/pubs/papers.html
+* Disney Research Publications - https://www.disneyresearch.com/publications/
 
 ## Podcasts
 
