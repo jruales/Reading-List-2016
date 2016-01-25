@@ -216,6 +216,6 @@
 * Mindset: The New Psychology of Success by Carol Dweck {Advocated by Khan Academy and recommended on Gates Notes blog}
 
 ### Non-Fiction -- Biographical/Historical
-* [40% done] "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character by Richard Feynman {Recommended on Andrej Karpathy's Goodreads reviews}
+* [53% done] "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character by Richard Feynman {Recommended on Andrej Karpathy's Goodreads reviews}
 * Buffett: The Making of an American Capitalist by Roger Lowenstein {Personally recommended by M.C. in late 2015}
 * The Idea Factory: Bell Labs and the Great Age of American Innovation by Jon Gertner {Recommended on Andrej Karpathy's Goodreads reviews}
