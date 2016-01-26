@@ -11,10 +11,11 @@
 
 ### Not Taken Before
 * Caltech - Richard Feynman, Robert Leighton, and Matthew Sands - The Feynman Lectures on Physics - http://www.feynmanlectures.caltech.edu/
-* Columbia University - David Blei - Probabilistic Models for Discrete Data - F Mudd 327
-* Columbia University - David Blei - Truth in Data - http://www.cs.columbia.edu/~blei/seminar/2015_truth_in_data/
+* Columbia University - Peter Allen - Humanoid Robots - http://www1.cs.columbia.edu/~allen/S16/schedule.html
 * Columbia University - Peter Belhumeur - Biometrics - http://www1.cs.columbia.edu/~belhumeur/courses/biometrics/2013/biometrics.html
 * Columbia University - Peter Belhumeur - Computational Photography Spring 2010 - http://www1.cs.columbia.edu/~belhumeur/courses/compPhoto/compPhoto.html
+* Columbia University - David Blei - Probabilistic Models for Discrete Data - F Mudd 327
+* Columbia University - David Blei - Truth in Data - http://www.cs.columbia.edu/~blei/seminar/2015_truth_in_data/
 * Cornell University - Steve Marschner - CS6630 Realistic Image Synthesis - http://www.cs.cornell.edu/Courses/cs6630/2015fa/index.shtml#
 * Stanford University - Mark Levoy - CS 178 - Digital Photography - http://graphics.stanford.edu/courses/cs178/
 * Stanford University - Richard Socher - Deep Learning for NLP CS224d - http://cs224d.stanford.edu/
