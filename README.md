@@ -21,6 +21,7 @@
 * Stanford University - Richard Socher - Deep Learning for NLP CS224d - http://cs224d.stanford.edu/
 * Stanford University - Andrej Karpathy - Convolutional Neural Networks for Computer Vision CS231n - http://cs231n.stanford.edu/
 * Stanford University - Matthew Hoffman - Statistics 300: Advanced topics in Statistics: Bayesian nonparametrics - Summer 2013 - http://www.cs.princeton.edu/~mdhoffma/stat300/index.html
+* University College London - David Silver (One of the DeepMind guys who worked on the AlphaGo AI) - Advanced Topics: Reinforcement Learning - http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 * University of Oxford - Nando di Freitas - Machine Learning (includes Neural Networks in Torch, RNNs and LSTMs, Alex Graves's handwritten recognition, variational autoencoders, reinforcement learning) - https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 
 ## Tutorials, blogs, videos, etc.
