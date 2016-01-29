@@ -17,6 +17,10 @@
 * Columbia University - David Blei - Probabilistic Models for Discrete Data - F Mudd 633 - http://www.cs.columbia.edu/~blei/seminar/2016_discrete_data/index.html
 * Columbia University - David Blei - Truth in Data - http://www.cs.columbia.edu/~blei/seminar/2015_truth_in_data/
 * Cornell University - Steve Marschner - CS6630 Realistic Image Synthesis - http://www.cs.cornell.edu/Courses/cs6630/2015fa/index.shtml#
+* NYU - Jonathan Goodman - Spring 2016 - MATH-GA 2020.001 and CSCI-GA 2421.001 - Numerical Methods II - http://www.math.nyu.edu/faculty/goodman/teaching/NumericalMethodsII2016/index.html
+* NYU - Jonathan Goodman - Fall 2015 - MATH-UA.250.001 - Mathematics of Finance - http://www.math.nyu.edu/faculty/goodman/teaching/MathFin/index.html
+* NYU - Jonathan Goodman - Spring 2008 - G63.2706.001 - PDE for Finance - http://www.math.nyu.edu/faculty/goodman/teaching/PDEfin/index.html
+* NYU - Jonathan Goodman - All courses: http://www.math.nyu.edu/faculty/goodman/teaching/teaching.html
 * Stanford University - Mark Levoy - CS 178 - Digital Photography - http://graphics.stanford.edu/courses/cs178/
 * Stanford University - Richard Socher - Deep Learning for NLP CS224d - http://cs224d.stanford.edu/
 * Stanford University - Andrej Karpathy - Convolutional Neural Networks for Computer Vision CS231n - http://cs231n.stanford.edu/
