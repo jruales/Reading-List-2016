@@ -162,7 +162,7 @@
 * Texture Synthesis Using Convolutional Neural Networks http://arxiv.org/abs/1505.07376
 * Jump Flooding in GPU with Applications to Voronoi Diagram and Distance Transform - http://www.comp.nus.edu.sg/~tants/jfa.html
 
-### Industry Research Websites
+### Publications by Company
 * Adobe Research Publications - http://www.adobe.com/technology/publications.html
 * Disney Research Publications - https://www.disneyresearch.com/publications/
 * Facebook Research Publications - https://research.facebook.com/publications
