@@ -160,11 +160,15 @@
 * GitXiv: http://gitxiv.com/
 * Variational Inference: A Review for Statisticians by David M. Blei, Alp Kucukelbir, and Jon D. McAuliffe http://arxiv.org/abs/1601.00670
 * Texture Synthesis Using Convolutional Neural Networks http://arxiv.org/abs/1505.07376
+* Jump Flooding in GPU with Applications to Voronoi Diagram and Distance Transform - http://www.comp.nus.edu.sg/~tants/jfa.html
+
+### Industry Research Websites
 * Adobe Research Publications - http://www.adobe.com/technology/publications.html
 * Disney Research Publications - https://www.disneyresearch.com/publications/
 * Facebook Research Publications - https://research.facebook.com/publications
 * Google Research Publications - http://research.google.com/pubs/papers.html
 * Microsoft Research Publications - http://research.microsoft.com/apps/catalog/default.aspx?t=publications
+* Pixar Online Library - http://graphics.pixar.com/library/
 
 
 ## Podcasts
