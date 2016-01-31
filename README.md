@@ -10,7 +10,9 @@
 * Columbia University - David Blei - Probabilistic Models for Discrete Data - F Mudd 633 - http://www.cs.columbia.edu/~blei/seminar/2016_discrete_data/index.html
 * Columbia University - David Blei - Truth in Data - http://www.cs.columbia.edu/~blei/seminar/2015_truth_in_data/
 * Columbia University - Shree Nayar - Computational Imaging
-* Cornell University - Steve Marschner - CS6630 Realistic Image Synthesis - http://www.cs.cornell.edu/Courses/cs6630/2015fa/index.shtml#
+* Cornell University - Steve Marschner - CS6630 Realistic Image Synthesis
+  * Fall 2015: http://www.cs.cornell.edu/Courses/cs6630/2015fa/ 
+  * Spring 2012: http://www.cs.cornell.edu/Courses/cs6630/2012sp/
 * MIT - Ramesh Raskar - Fall 2009 - MAS.531 / MAS.131 - Computational Camera and Photography - http://ocw.mit.edu/courses/media-arts-and-sciences/mas-531-computational-camera-and-photography-fall-2009/
 * NYU - Jonathan Goodman - Spring 2016 - MATH-GA 2020.001 and CSCI-GA 2421.001 - Numerical Methods II - http://www.math.nyu.edu/faculty/goodman/teaching/NumericalMethodsII2016/index.html
 * NYU - Jonathan Goodman - Fall 2015 - MATH-UA.250.001 - Mathematics of Finance - http://www.math.nyu.edu/faculty/goodman/teaching/MathFin/index.html
@@ -158,6 +160,12 @@
 * Benedikt Bitterli - The secret life of photons (Blog Post tutorial on light transport) - https://benedikt-bitterli.me/tantalum/
 
 ## Research Papers
+* arXiv: http://arxiv.org/
+* Arxiv Sanity Preserver: http://www.arxiv-sanity.com/
+* User-friendly NIPS paper search:
+  * 2015: http://cs.stanford.edu/people/karpathy/nips2015/
+  * 2014: http://cs.stanford.edu/people/karpathy/nips2014/
+  * 2013: http://cs.stanford.edu/people/karpathy/nips2013/
 * GitXiv: http://gitxiv.com/
 * Variational Inference: A Review for Statisticians by David M. Blei, Alp Kucukelbir, and Jon D. McAuliffe http://arxiv.org/abs/1601.00670
 * Texture Synthesis Using Convolutional Neural Networks http://arxiv.org/abs/1505.07376
