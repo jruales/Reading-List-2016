@@ -36,6 +36,7 @@
 ## Tutorials, blogs, videos, etc.
 
 ### Math & Machine Learning
+* Metacademy - https://www.metacademy.org/
 * Duke University - Computational Statistics in Python - http://people.duke.edu/~ccc14/sta-663/
 * Stanford deep learning tutorial - http://ufldl.stanford.edu/
 * Richard Socher, Chris Manning and Yoshua Bengio - 2013 - Tutorial: Deep Learning for NLP (without Magic) - http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial
