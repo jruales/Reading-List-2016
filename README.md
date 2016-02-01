@@ -1,33 +1,5 @@
 # Reading List 2016
 
-## Table of Contents 
-[//]: # (generated with [DocToc](http://doctoc.herokuapp.com/)*)
-
-- [Reading List 2016](#)
-	- [Online Course Notes](#)
-		- [Not Taken Before](#)
-		- [Taken Before (Review These)](#)
-	- [Tutorials, blogs, videos, etc.](#)
-		- [Math & Machine Learning](#)
-		- [Web Dev](#)
-		- [Graphics](#)
-	- [Research Papers](#)
-		- [Tools for Finding and Understanding Research Papers](#)
-		- [Publications](#)
-		- [Publications by Company](#)
-	- [Podcasts](#)
-	- [Textbooks](#)
-		- [Math & Machine Learning](#)
-		- [Piano](#)
-		- [Graphic Design](#)
-		- [Software Engineering](#)
-		- [Programming Languages](#)
-		- [Algorithms and Data Structures](#)
-	- [Books](#)
-		- [Fiction](#)
-		- [Non-Fiction -- Instructive](#)
-		- [Non-Fiction -- Biographical/Historical](#)
-
 ## Online Course Notes
 
 ### Not Taken Before
