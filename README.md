@@ -160,6 +160,8 @@
 * Benedikt Bitterli - The secret life of photons (Blog Post tutorial on light transport) - https://benedikt-bitterli.me/tantalum/
 
 ## Research Papers
+
+### Tools for Finding and Understanding Research Papers
 * arXiv: http://arxiv.org/
 * Arxiv Sanity Preserver: http://www.arxiv-sanity.com/
 * User-friendly NIPS paper search:
@@ -167,6 +169,10 @@
   * 2014: http://cs.stanford.edu/people/karpathy/nips2014/
   * 2013: http://cs.stanford.edu/people/karpathy/nips2013/
 * GitXiv: http://gitxiv.com/
+* Hugo Larochelle's Notes on Research Papers: https://twitter.com/hugo_larochelle/timelines/639067398511968256
+* Fermat's Library: http://fermatslibrary.com/
+
+### Publications
 * Variational Inference: A Review for Statisticians by David M. Blei, Alp Kucukelbir, and Jon D. McAuliffe http://arxiv.org/abs/1601.00670
 * Texture Synthesis Using Convolutional Neural Networks http://arxiv.org/abs/1505.07376
 * Jump Flooding in GPU with Applications to Voronoi Diagram and Distance Transform - http://www.comp.nus.edu.sg/~tants/jfa.html
