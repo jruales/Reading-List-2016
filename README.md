@@ -126,6 +126,7 @@
   * Image Recognition
 * Torch tutorials - http://torch.ch/
 * Notes by Anima Anandkumar on NIPS 2015 workshop on non-convex optimization - http://www.offconvex.org/2016/01/25/non-convex-workshop/
+* NIPS 2015 Videos: https://nips.cc/Conferences/2015/Schedule
 * Microsoft Research NIPS 2015 Videos - http://research.microsoft.com/apps/catalog/default.aspx?t=videos
 	* Symposium: Deep Learning - Panel Discussion
 	* Symposium: Deep Learning - Emily Denton
