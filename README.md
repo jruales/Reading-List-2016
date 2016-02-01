@@ -29,6 +29,10 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+<!-- npm install -g doctoc -->
+<!-- doctoc . -->
+
+
 # Reading List 2016
 
 ## Online Course Notes
