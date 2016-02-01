@@ -1,3 +1,34 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Reading List 2016](#reading-list-2016)
+  - [Online Course Notes](#online-course-notes)
+    - [Not Taken Before](#not-taken-before)
+    - [Taken Before (Review These)](#taken-before-review-these)
+  - [Tutorials, blogs, videos, etc.](#tutorials-blogs-videos-etc)
+    - [Math & Machine Learning](#math-&-machine-learning)
+    - [Web Dev](#web-dev)
+    - [Graphics](#graphics)
+  - [Research Papers](#research-papers)
+    - [Tools for Finding and Understanding Research Papers](#tools-for-finding-and-understanding-research-papers)
+    - [Publications](#publications)
+    - [Publications by Company](#publications-by-company)
+  - [Podcasts](#podcasts)
+  - [Textbooks](#textbooks)
+    - [Math & Machine Learning](#math-&-machine-learning-1)
+    - [Piano](#piano)
+    - [Graphic Design](#graphic-design)
+    - [Software Engineering](#software-engineering)
+    - [Programming Languages](#programming-languages)
+    - [Algorithms and Data Structures](#algorithms-and-data-structures)
+  - [Books](#books)
+    - [Fiction](#fiction)
+    - [Non-Fiction -- Instructive](#non-fiction----instructive)
+    - [Non-Fiction -- Biographical/Historical](#non-fiction----biographicalhistorical)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Reading List 2016
 
 ## Online Course Notes
