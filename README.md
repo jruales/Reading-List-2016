@@ -39,6 +39,7 @@
 
 ### Not Taken Before
 * Caltech - Richard Feynman, Robert Leighton, and Matthew Sands - The Feynman Lectures on Physics - http://www.feynmanlectures.caltech.edu/
+* CMU - Advanced Cloud Computing - http://www.cs.cmu.edu/~15719/
 * Columbia University - Peter Allen - Humanoid Robots - http://www1.cs.columbia.edu/~allen/S16/
 * Columbia University - Peter Belhumeur - Biometrics - http://www1.cs.columbia.edu/~belhumeur/courses/biometrics/2013/biometrics.html
 * Columbia University - Peter Belhumeur - Computational Photography Spring 2010 - http://www1.cs.columbia.edu/~belhumeur/courses/compPhoto/compPhoto.html
