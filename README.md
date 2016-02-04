@@ -215,6 +215,7 @@
 * Variational Inference: A Review for Statisticians by David M. Blei, Alp Kucukelbir, and Jon D. McAuliffe http://arxiv.org/abs/1601.00670
 * Texture Synthesis Using Convolutional Neural Networks http://arxiv.org/abs/1505.07376
 * Jump Flooding in GPU with Applications to Voronoi Diagram and Distance Transform - http://www.comp.nus.edu.sg/~tants/jfa.html
+* Understanding Neural Networks Through Deep Visualization by Jason Yosinski, Jeff Clune, Anh Nguyen, Thomas Fuchs, and Hod Lipson - http://yosinski.com/deepvis
 
 ### Publications by Company
 * Adobe Research Publications - http://www.adobe.com/technology/publications.html
