@@ -220,6 +220,7 @@
 
 ### Publications by Company
 * Adobe Research Publications - http://www.adobe.com/technology/publications.html
+* DeepMind Research Publications - http://deepmind.com/publications.html
 * Disney Research Publications - https://www.disneyresearch.com/publications/
 * Facebook Research Publications - https://research.facebook.com/publications
 * Google Research Publications - http://research.google.com/pubs/papers.html
