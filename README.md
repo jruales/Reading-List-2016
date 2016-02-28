@@ -77,6 +77,7 @@
 * Stanford deep learning tutorial - http://ufldl.stanford.edu/
 * Richard Socher, Chris Manning and Yoshua Bengio - 2013 - Tutorial: Deep Learning for NLP (without Magic) - http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial
 * Visualizing CNN architectures side by side with mxnet - Joseph Paul Cohen - http://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/
+* TensorFlow for Poets by Pete Warden - http://petewarden.com/2016/02/28/tensorflow-for-poets/
 * Blog Series - Christopher Olah - Neural Network Tutorials - http://colah.github.io/
   * Neural Networks (General)
     * Neural Networks, Manifolds, and Topology
@@ -96,10 +97,10 @@
     * Fanfiction, Graphs, and PageRank
     * Data.List Recursion Illustrated
     * Visual Information Theory
+* inFERENce blog by Ferenc Huszár - http://www.inference.vc/
 * Blog Series - Andrej Karpathy - http://karpathy.github.io/
   * Oct 25, 2015 - What a Deep Neural Network thinks about your #selfie - http://karpathy.github.io/2015/10/25/selfie/
   * May 21, 2015 - The Unreasonable Effectiveness of Recurrent Neural Networks - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
-  * inFERENce blog by Ferenc Huszár - http://www.inference.vc/
   * Mar 30, 2015 - Breaking Linear Classifiers on ImageNet - http://karpathy.github.io/2015/03/30/breaking-convnets/
   * Sep 2, 2014 - What I learned from competing against a ConvNet on ImageNet - http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/
   * Aug 3, 2014 - Quantifying Productivity - http://karpathy.github.io/2014/08/03/quantifying-productivity/
