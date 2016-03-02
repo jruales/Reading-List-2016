@@ -212,6 +212,7 @@
 * GitXiv: http://gitxiv.com/
 * Hugo Larochelle's Notes on Research Papers: https://twitter.com/hugo_larochelle/timelines/639067398511968256
 * Fermat's Library: http://fermatslibrary.com/
+* Paperscape: http://paperscape.org/
 
 ### Publications
 * Variational Inference: A Review for Statisticians by David M. Blei, Alp Kucukelbir, and Jon D. McAuliffe http://arxiv.org/abs/1601.00670
@@ -290,3 +291,6 @@
 * [100% done] "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character by Richard Feynman {Recommended on Andrej Karpathy's Goodreads reviews}
 * Buffett: The Making of an American Capitalist by Roger Lowenstein {Personally recommended by M.C. in late 2015}
 * The Idea Factory: Bell Labs and the Great Age of American Innovation by Jon Gertner {Recommended on Andrej Karpathy's Goodreads reviews}
+
+### Non-Fiction -- Other
+* Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves {Personally recommended by M.C. in early 2016}
