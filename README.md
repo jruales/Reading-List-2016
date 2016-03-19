@@ -14,9 +14,7 @@
     - [Software Engineering](#software-engineering)
     - [Programming Languages](#programming-languages)
     - [Algorithms and Data Structures](#algorithms-and-data-structures)
-  - [Online Course Notes](#online-course-notes)
-    - [Not Taken Before](#not-taken-before)
-    - [Taken Before (Review These)](#taken-before-review-these)
+  - [Podcasts](#podcasts)
   - [Tutorials, blogs, videos, etc.](#tutorials-blogs-videos-etc)
     - [Math & Machine Learning](#math-&-machine-learning)
     - [Web Dev](#web-dev)
@@ -25,7 +23,9 @@
     - [Tools for Finding and Understanding Research Papers](#tools-for-finding-and-understanding-research-papers)
     - [Publications](#publications)
     - [Publications by Company](#publications-by-company)
-  - [Podcasts](#podcasts)
+  - [Online Course Notes](#online-course-notes)
+    - [Not Taken Before](#not-taken-before)
+    - [Taken Before (Review These)](#taken-before-review-these)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -106,44 +106,12 @@
 
 
 
+## Podcasts
 
-
-
-## Online Course Notes
-
-### Not Taken Before
-* Caltech - Richard Feynman, Robert Leighton, and Matthew Sands - The Feynman Lectures on Physics - http://www.feynmanlectures.caltech.edu/
-* CMU - Advanced Cloud Computing - http://www.cs.cmu.edu/~15719/
-* Columbia University - Peter Allen - Humanoid Robots - http://www1.cs.columbia.edu/~allen/S16/
-* Columbia University - Peter Belhumeur - Biometrics - http://www1.cs.columbia.edu/~belhumeur/courses/biometrics/2013/biometrics.html
-* Columbia University - Peter Belhumeur - Computational Photography Spring 2010 - http://www1.cs.columbia.edu/~belhumeur/courses/compPhoto/compPhoto.html
-* Columbia University - David Blei - Probabilistic Models for Discrete Data - F Mudd 633 - http://www.cs.columbia.edu/~blei/seminar/2016_discrete_data/index.html
-* Columbia University - David Blei - Truth in Data - http://www.cs.columbia.edu/~blei/seminar/2015_truth_in_data/
-* Columbia University - Shree Nayar - Computational Imaging
-* Cornell University - Steve Marschner - CS6630 Realistic Image Synthesis
-  * Fall 2015: http://www.cs.cornell.edu/Courses/cs6630/2015fa/ 
-  * Spring 2012: http://www.cs.cornell.edu/Courses/cs6630/2012sp/
-* MIT - Ramesh Raskar - Fall 2009 - MAS.531 / MAS.131 - Computational Camera and Photography - http://ocw.mit.edu/courses/media-arts-and-sciences/mas-531-computational-camera-and-photography-fall-2009/
-* NYU - Jonathan Goodman - Spring 2016 - MATH-GA 2020.001 and CSCI-GA 2421.001 - Numerical Methods II - http://www.math.nyu.edu/faculty/goodman/teaching/NumericalMethodsII2016/index.html
-* NYU - Jonathan Goodman - Fall 2015 - MATH-UA.250.001 - Mathematics of Finance - http://www.math.nyu.edu/faculty/goodman/teaching/MathFin/index.html
-* NYU - Jonathan Goodman - Spring 2008 - G63.2706.001 - PDE for Finance - http://www.math.nyu.edu/faculty/goodman/teaching/PDEfin/index.html
-* NYU - Jonathan Goodman - All courses: http://www.math.nyu.edu/faculty/goodman/teaching/teaching.html
-* Stanford University - Mark Levoy - CS 178 - Digital Photography - http://graphics.stanford.edu/courses/cs178/
-* Stanford University - Richard Socher - Deep Learning for NLP CS224d - http://cs224d.stanford.edu/
-* Stanford University - Andrej Karpathy - Convolutional Neural Networks for Computer Vision CS231n - http://cs231n.stanford.edu/
-* Stanford University - Matthew Hoffman - Statistics 300: Advanced topics in Statistics: Bayesian nonparametrics - Summer 2013 - http://www.cs.princeton.edu/~mdhoffma/stat300/index.html
-* University College London - David Silver (One of the DeepMind guys who worked on the AlphaGo AI) - Advanced Topics: Reinforcement Learning - http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
-* University of California, Berkeley - stat212b Spring 2016 - Topics Course on Deep Learning - https://github.com/joanbruna/stat212b
-* University of Oxford - Nando di Freitas - Machine Learning (includes Neural Networks in Torch, RNNs and LSTMs, Alex Graves's handwritten recognition, variational autoencoders, reinforcement learning) - https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
-
-### Taken Before (Review These)
-* Columbia University - Tony Jebara - Machine Learning 4771 - http://www.cs.columbia.edu/~jebara/4771/
-* Columbia University - Tony Jebara - Adv. Machine Learning 4771 - http://www.cs.columbia.edu/~jebara/4772/
-* Columbia University - Michael Collins - Natural Language Processing 4705 - http://www.cs.columbia.edu/~cs4705/
-* Columbia University - John Paisley - Bayesian Models for Machine Learning: - http://www.columbia.edu/~jwp2128/Teaching/E6892/E6892Fall2015.html
-* Columbia University - David Blei - Foundations of Graphical Models - http://www.cs.columbia.edu/~blei/fogm/2015F/index.html
-
-
+* Italiano Automatico
+* Planet Money {Personally recommended by E.Z. in late 2015}
+* The New Yorker: Fiction {Personally recommended by E.Z. in late 2015}
+* Serial {Personally recommended by E.Z. in late 2015}
 
 
 
@@ -282,8 +250,6 @@
 
 
 
-
-
 ## Research Papers
 
 ### Tools for Finding and Understanding Research Papers
@@ -319,10 +285,38 @@
 
 
 
-## Podcasts
 
-* Italiano Automatico
-* Planet Money {Personally recommended by E.Z. in late 2015}
-* The New Yorker: Fiction {Personally recommended by E.Z. in late 2015}
-* Serial {Personally recommended by E.Z. in late 2015}
+## Online Course Notes
+
+### Not Taken Before
+* Caltech - Richard Feynman, Robert Leighton, and Matthew Sands - The Feynman Lectures on Physics - http://www.feynmanlectures.caltech.edu/
+* CMU - Advanced Cloud Computing - http://www.cs.cmu.edu/~15719/
+* Columbia University - Peter Allen - Humanoid Robots - http://www1.cs.columbia.edu/~allen/S16/
+* Columbia University - Peter Belhumeur - Biometrics - http://www1.cs.columbia.edu/~belhumeur/courses/biometrics/2013/biometrics.html
+* Columbia University - Peter Belhumeur - Computational Photography Spring 2010 - http://www1.cs.columbia.edu/~belhumeur/courses/compPhoto/compPhoto.html
+* Columbia University - David Blei - Probabilistic Models for Discrete Data - F Mudd 633 - http://www.cs.columbia.edu/~blei/seminar/2016_discrete_data/index.html
+* Columbia University - David Blei - Truth in Data - http://www.cs.columbia.edu/~blei/seminar/2015_truth_in_data/
+* Columbia University - Shree Nayar - Computational Imaging
+* Cornell University - Steve Marschner - CS6630 Realistic Image Synthesis
+  * Fall 2015: http://www.cs.cornell.edu/Courses/cs6630/2015fa/ 
+  * Spring 2012: http://www.cs.cornell.edu/Courses/cs6630/2012sp/
+* MIT - Ramesh Raskar - Fall 2009 - MAS.531 / MAS.131 - Computational Camera and Photography - http://ocw.mit.edu/courses/media-arts-and-sciences/mas-531-computational-camera-and-photography-fall-2009/
+* NYU - Jonathan Goodman - Spring 2016 - MATH-GA 2020.001 and CSCI-GA 2421.001 - Numerical Methods II - http://www.math.nyu.edu/faculty/goodman/teaching/NumericalMethodsII2016/index.html
+* NYU - Jonathan Goodman - Fall 2015 - MATH-UA.250.001 - Mathematics of Finance - http://www.math.nyu.edu/faculty/goodman/teaching/MathFin/index.html
+* NYU - Jonathan Goodman - Spring 2008 - G63.2706.001 - PDE for Finance - http://www.math.nyu.edu/faculty/goodman/teaching/PDEfin/index.html
+* NYU - Jonathan Goodman - All courses: http://www.math.nyu.edu/faculty/goodman/teaching/teaching.html
+* Stanford University - Mark Levoy - CS 178 - Digital Photography - http://graphics.stanford.edu/courses/cs178/
+* Stanford University - Richard Socher - Deep Learning for NLP CS224d - http://cs224d.stanford.edu/
+* Stanford University - Andrej Karpathy - Convolutional Neural Networks for Computer Vision CS231n - http://cs231n.stanford.edu/
+* Stanford University - Matthew Hoffman - Statistics 300: Advanced topics in Statistics: Bayesian nonparametrics - Summer 2013 - http://www.cs.princeton.edu/~mdhoffma/stat300/index.html
+* University College London - David Silver (One of the DeepMind guys who worked on the AlphaGo AI) - Advanced Topics: Reinforcement Learning - http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+* University of California, Berkeley - stat212b Spring 2016 - Topics Course on Deep Learning - https://github.com/joanbruna/stat212b
+* University of Oxford - Nando di Freitas - Machine Learning (includes Neural Networks in Torch, RNNs and LSTMs, Alex Graves's handwritten recognition, variational autoencoders, reinforcement learning) - https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+
+### Taken Before (Review These)
+* Columbia University - Tony Jebara - Machine Learning 4771 - http://www.cs.columbia.edu/~jebara/4771/
+* Columbia University - Tony Jebara - Adv. Machine Learning 4771 - http://www.cs.columbia.edu/~jebara/4772/
+* Columbia University - Michael Collins - Natural Language Processing 4705 - http://www.cs.columbia.edu/~cs4705/
+* Columbia University - John Paisley - Bayesian Models for Machine Learning: - http://www.columbia.edu/~jwp2128/Teaching/E6892/E6892Fall2015.html
+* Columbia University - David Blei - Foundations of Graphical Models - http://www.cs.columbia.edu/~blei/fogm/2015F/index.html
 
