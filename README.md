@@ -3,6 +3,17 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Reading List 2016](#reading-list-2016)
+  - [Books](#books)
+    - [Fiction](#fiction)
+    - [Non-Fiction -- Instructive](#non-fiction----instructive)
+    - [Non-Fiction -- Biographical/Historical](#non-fiction----biographicalhistorical)
+  - [Textbooks](#textbooks)
+    - [Math & Machine Learning](#math-&-machine-learning-1)
+    - [Piano](#piano)
+    - [Graphic Design](#graphic-design)
+    - [Software Engineering](#software-engineering)
+    - [Programming Languages](#programming-languages)
+    - [Algorithms and Data Structures](#algorithms-and-data-structures)
   - [Online Course Notes](#online-course-notes)
     - [Not Taken Before](#not-taken-before)
     - [Taken Before (Review These)](#taken-before-review-these)
@@ -15,17 +26,6 @@
     - [Publications](#publications)
     - [Publications by Company](#publications-by-company)
   - [Podcasts](#podcasts)
-  - [Textbooks](#textbooks)
-    - [Math & Machine Learning](#math-&-machine-learning-1)
-    - [Piano](#piano)
-    - [Graphic Design](#graphic-design)
-    - [Software Engineering](#software-engineering)
-    - [Programming Languages](#programming-languages)
-    - [Algorithms and Data Structures](#algorithms-and-data-structures)
-  - [Books](#books)
-    - [Fiction](#fiction)
-    - [Non-Fiction -- Instructive](#non-fiction----instructive)
-    - [Non-Fiction -- Biographical/Historical](#non-fiction----biographicalhistorical)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -34,6 +34,80 @@
 
 
 # Reading List 2016
+
+
+
+
+
+## Books
+
+### Fiction
+* [44% done] Flatland: A romance of many dimensions by Edwin A. Abbott {Personally recommended by G.C. many years ago}
+* [4% done] Ready Player One by Ernest Cline {Recommended on Andrej Karpathy's Goodreads reviews}
+* El héroe discreto by Mario Vargas Llosa {Personally recommended by C.S. in early 2016 to enrich my Spanish vocabulary and syntax}
+* The Goldfinch by Donna Tartt {Personally recommended by H.M.}
+* Harry Potter e la pietra filosofale by J. K. Rowling {Personally recommended by H.M. in 2015. While recommended in English, I'll read it in Italian to practice the language}
+
+### Non-Fiction -- Instructive
+* [71% done] Understanding Comics: The Invisible Art by Scott McCloud {Recommended on Bret Victor's website, I found out about it in early 2016}
+* [35% done] How To Win Friends and Influence People by Dale Carnegie {Personally recommended by M.Y. in 2015}
+* [32% done] The Design of Everyday Things by Donald ("Don") Norman {Recommended on Coursera's HCI course I took several years ago}
+* [28% done] Don't Make Me Think: A Common Sense Approach to Web Usability by Steve Krug {Recommended on Coursera's HCI course?}
+* Rocket Surgery Made Easy by Steve Krug {Probably advertised within "Don't Make Me Think"}
+* Moonwalking with Einstein by Joshua Foer {Mentioned in passing by M.C. in late 2015}
+* Mindset: The New Psychology of Success by Carol Dweck {Advocated by Khan Academy and recommended on Gates Notes blog}
+
+### Non-Fiction -- Biographical/Historical
+* [100% done] "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character by Richard Feynman {Recommended on Andrej Karpathy's Goodreads reviews}
+* Buffett: The Making of an American Capitalist by Roger Lowenstein {Personally recommended by M.C. in late 2015}
+* The Idea Factory: Bell Labs and the Great Age of American Innovation by Jon Gertner {Recommended on Andrej Karpathy's Goodreads reviews}
+
+### Non-Fiction -- Other
+* Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves {Personally recommended by M.C. in early 2016}
+
+
+
+
+
+
+## Textbooks
+
+### Math & Machine Learning
+* (In Preparation) Deep Learning by Ian Goodfellow, Aaron Courville, and Yoshua Bengio https://goodfeli.github.io/dlbook/
+* Reinforcement Learning: An Introduction (e-book) by Richard S. Sutton and Andrew G. Barto - https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html
+* Pattern Recognition and Machine Learning by Christopher Bishop {Recommended to me by several professors}
+* Convex Optimization: Algorithms and Complexity by Sébastien Bubeck http://arxiv.org/pdf/1405.4980.pdf
+* {Some book on OpenCV in Python}
+* {Some book on AWS}
+* {Some book on Hadoop, Hive, Spark, and such}
+
+### Piano
+* The Virtuoso Pianist in 60 Exercises by Charles-Louis Hanon
+* Mikrokosmos by Béla Bartók {Personally recommended by R.R. in early 2016}
+
+### Graphic Design
+* Illustrator: Visual Quickstart Guide
+
+### Software Engineering
+* Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
+* Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma {Personally recommended by D.R.}
+
+### Programming Languages
+* The C Programming Language by Brian Kernighan and Dennis Ritchie
+* Dive Into Python by Mark Pilgrim - http://www.diveintopython.net/toc/index.html {Personally recommended by A.N. in early 2016}
+* Pro JavaScript Techniques by Russ Ferguson, John Paxton, and John Resig
+* The Swift Programming Language {Heard about the book in a Columbia hackathon}
+
+### Algorithms and Data Structures
+* Elements of Programming Interviews by Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash
+* Cracking the Coding Interview by Gayle Laakmann McDowell
+
+
+
+
+
+
+
 
 ## Online Course Notes
 
@@ -68,6 +142,11 @@
 * Columbia University - Michael Collins - Natural Language Processing 4705 - http://www.cs.columbia.edu/~cs4705/
 * Columbia University - John Paisley - Bayesian Models for Machine Learning: - http://www.columbia.edu/~jwp2128/Teaching/E6892/E6892Fall2015.html
 * Columbia University - David Blei - Foundations of Graphical Models - http://www.cs.columbia.edu/~blei/fogm/2015F/index.html
+
+
+
+
+
 
 ## Tutorials, blogs, videos, etc.
 
@@ -200,6 +279,11 @@
 * Khan Academy - Pixar in a Box - https://www.khanacademy.org/partner-content/pixar
 * Benedikt Bitterli - The secret life of photons (Blog Post tutorial on light transport) - https://benedikt-bitterli.me/tantalum/
 
+
+
+
+
+
 ## Research Papers
 
 ### Tools for Finding and Understanding Research Papers
@@ -230,6 +314,11 @@
 * Pixar Online Library - http://graphics.pixar.com/library/
 
 
+
+
+
+
+
 ## Podcasts
 
 * Italiano Automatico
@@ -237,60 +326,3 @@
 * The New Yorker: Fiction {Personally recommended by E.Z. in late 2015}
 * Serial {Personally recommended by E.Z. in late 2015}
 
-## Textbooks
-
-### Math & Machine Learning
-* (In Preparation) Deep Learning by Ian Goodfellow, Aaron Courville, and Yoshua Bengio https://goodfeli.github.io/dlbook/
-* Reinforcement Learning: An Introduction (e-book) by Richard S. Sutton and Andrew G. Barto - https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html
-* Pattern Recognition and Machine Learning by Christopher Bishop {Recommended to me by several professors}
-* Convex Optimization: Algorithms and Complexity by Sébastien Bubeck http://arxiv.org/pdf/1405.4980.pdf
-* {Some book on OpenCV in Python}
-* {Some book on AWS}
-* {Some book on Hadoop, Hive, Spark, and such}
-
-### Piano
-* The Virtuoso Pianist in 60 Exercises by Charles-Louis Hanon
-* Mikrokosmos by Béla Bartók {Personally recommended by R.R. in early 2016}
-
-### Graphic Design
-* Illustrator: Visual Quickstart Guide
-
-### Software Engineering
-* Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
-* Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma {Personally recommended by D.R.}
-
-### Programming Languages
-* The C Programming Language by Brian Kernighan and Dennis Ritchie
-* Dive Into Python by Mark Pilgrim - http://www.diveintopython.net/toc/index.html {Personally recommended by A.N. in early 2016}
-* Pro JavaScript Techniques by Russ Ferguson, John Paxton, and John Resig
-* The Swift Programming Language {Heard about the book in a Columbia hackathon}
-
-### Algorithms and Data Structures
-* Elements of Programming Interviews by Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash
-* Cracking the Coding Interview by Gayle Laakmann McDowell
-
-## Books
-
-### Fiction
-* [44% done] Flatland: A romance of many dimensions by Edwin A. Abbott {Personally recommended by G.C. many years ago}
-* [4% done] Ready Player One by Ernest Cline {Recommended on Andrej Karpathy's Goodreads reviews}
-* El héroe discreto by Mario Vargas Llosa {Personally recommended by C.S. in early 2016 to enrich my Spanish vocabulary and syntax}
-* The Goldfinch by Donna Tartt {Personally recommended by H.M.}
-* Harry Potter e la pietra filosofale by J. K. Rowling {Personally recommended by H.M. in 2015. While recommended in English, I'll read it in Italian to practice the language}
-
-### Non-Fiction -- Instructive
-* [71% done] Understanding Comics: The Invisible Art by Scott McCloud {Recommended on Bret Victor's website, I found out about it in early 2016}
-* [35% done] How To Win Friends and Influence People by Dale Carnegie {Personally recommended by M.Y. in 2015}
-* [32% done] The Design of Everyday Things by Donald ("Don") Norman {Recommended on Coursera's HCI course I took several years ago}
-* [28% done] Don't Make Me Think: A Common Sense Approach to Web Usability by Steve Krug {Recommended on Coursera's HCI course?}
-* Rocket Surgery Made Easy by Steve Krug {Probably advertised within "Don't Make Me Think"}
-* Moonwalking with Einstein by Joshua Foer {Mentioned in passing by M.C. in late 2015}
-* Mindset: The New Psychology of Success by Carol Dweck {Advocated by Khan Academy and recommended on Gates Notes blog}
-
-### Non-Fiction -- Biographical/Historical
-* [100% done] "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character by Richard Feynman {Recommended on Andrej Karpathy's Goodreads reviews}
-* Buffett: The Making of an American Capitalist by Roger Lowenstein {Personally recommended by M.C. in late 2015}
-* The Idea Factory: Bell Labs and the Great Age of American Innovation by Jon Gertner {Recommended on Andrej Karpathy's Goodreads reviews}
-
-### Non-Fiction -- Other
-* Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves {Personally recommended by M.C. in early 2016}
