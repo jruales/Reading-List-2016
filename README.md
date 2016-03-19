@@ -247,6 +247,12 @@
 * Khan Academy - Pixar in a Box - https://www.khanacademy.org/partner-content/pixar
 * Benedikt Bitterli - The secret life of photons (Blog Post tutorial on light transport) - https://benedikt-bitterli.me/tantalum/
 
+### Misc. Computer Science
+* Pablo Estrada - Bit y Byte - http://bitybyte.github.io/ {in Spanish}
+
+
+
+
 
 
 
