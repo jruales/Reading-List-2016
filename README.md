@@ -56,6 +56,7 @@
 * Rocket Surgery Made Easy by Steve Krug {Probably advertised within "Don't Make Me Think"}
 * Moonwalking with Einstein by Joshua Foer {Mentioned in passing by M.C. in late 2015}
 * Mindset: The New Psychology of Success by Carol Dweck {Advocated by Khan Academy and recommended on Gates Notes blog}
+* AP Biology by Deborah T. Goldberg
 
 ### Non-Fiction -- Biographical/Historical
 * [100% done] "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character by Richard Feynman {Recommended on Andrej Karpathy's Goodreads reviews}
