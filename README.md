@@ -49,7 +49,7 @@
 * Harry Potter e la pietra filosofale by J. K. Rowling {Personally recommended by H.M. in 2015. While recommended in English, I'll read it in Italian to practice the language}
 
 ### Non-Fiction -- Instructive
-* [71% done] Understanding Comics: The Invisible Art by Scott McCloud {Recommended on Bret Victor's website, I found out about it in early 2016}
+* [100% done on March 20] Understanding Comics: The Invisible Art by Scott McCloud {Recommended on Bret Victor's website, I found out about it in early 2016}
 * [35% done] How To Win Friends and Influence People by Dale Carnegie {Personally recommended by M.Y. in 2015}
 * [32% done] The Design of Everyday Things by Donald ("Don") Norman {Recommended on Coursera's HCI course I took several years ago}
 * [28% done] Don't Make Me Think: A Common Sense Approach to Web Usability by Steve Krug {Recommended on Coursera's HCI course?}
