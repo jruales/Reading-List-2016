@@ -126,6 +126,7 @@
 * Richard Socher, Chris Manning and Yoshua Bengio - 2013 - Tutorial: Deep Learning for NLP (without Magic) - http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial
 * Visualizing CNN architectures side by side with mxnet - Joseph Paul Cohen - http://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/
 * TensorFlow for Poets by Pete Warden - http://petewarden.com/2016/02/28/tensorflow-for-poets/
+* Theano Tutorial - Colin Raffel - http://nbviewer.jupyter.org/github/craffel/theano-tutorial/blob/master/Theano%20Tutorial.ipynb
 * Blog Series - Christopher Olah - Neural Network Tutorials - http://colah.github.io/
   * Neural Networks (General)
     * Neural Networks, Manifolds, and Topology
@@ -326,4 +327,3 @@
 * Columbia University - Michael Collins - Natural Language Processing 4705 - http://www.cs.columbia.edu/~cs4705/
 * Columbia University - John Paisley - Bayesian Models for Machine Learning: - http://www.columbia.edu/~jwp2128/Teaching/E6892/E6892Fall2015.html
 * Columbia University - David Blei - Foundations of Graphical Models - http://www.cs.columbia.edu/~blei/fogm/2015F/index.html
-
