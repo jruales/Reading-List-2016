@@ -249,6 +249,9 @@
 * Khan Academy - Pixar in a Box - https://www.khanacademy.org/partner-content/pixar
 * Benedikt Bitterli - The secret life of photons (Blog Post tutorial on light transport) - https://benedikt-bitterli.me/tantalum/
 
+### UI/UX
+* What is Peripheral Vision? - http://www.simplifyinginterfaces.com/2008/10/08/what-is-peripheral-vision/
+
 ### Misc. Computer Science
 * Pablo Estrada - Bit y Byte - http://bitybyte.github.io/ {in Spanish}
 
