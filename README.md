@@ -178,6 +178,7 @@
 * Torch tutorials - http://torch.ch/
 * Notes by Anima Anandkumar on NIPS 2015 workshop on non-convex optimization - http://www.offconvex.org/2016/01/25/non-convex-workshop/
 * NIPS 2015 Videos: https://nips.cc/Conferences/2015/Schedule
+* Neural Network playground in JS - http://playground.tensorflow.org/
 * Microsoft Research NIPS 2015 Videos - http://research.microsoft.com/apps/catalog/default.aspx?t=videos
 	* Symposium: Deep Learning - Panel Discussion
 	* Symposium: Deep Learning - Emily Denton
@@ -251,6 +252,7 @@
 
 ### UI/UX
 * What is Peripheral Vision? - http://www.simplifyinginterfaces.com/2008/10/08/what-is-peripheral-vision/
+* Google Big Picture Group visualizations - https://research.google.com/bigpicture/
 
 ### Misc. Computer Science
 * Pablo Estrada - Bit y Byte - http://bitybyte.github.io/ {in Spanish}
