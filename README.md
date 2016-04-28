@@ -240,6 +240,7 @@
 	* Tutorial: Monte Carlo Inference Methods
 	* Tutorial: Large-Scale Distributed Systems for Training Neural Networks
 	* Tutorial: Deep Learning
+* OpenAI Gym - https://gym.openai.com/
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
