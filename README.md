@@ -42,7 +42,7 @@
 ## Books
 
 ### Fiction
-* [71% done] Flatland: A romance of many dimensions by Edwin A. Abbott {Personally recommended by G.C. many years ago}
+* [100% done on May 20, 2016] Flatland: A romance of many dimensions by Edwin A. Abbott {Personally recommended by G.C. 🦀 many years ago}
 * [4% done] Ready Player One by Ernest Cline {Recommended on Andrej Karpathy's Goodreads reviews}
 * El héroe discreto by Mario Vargas Llosa {Personally recommended by C.S. in early 2016 to enrich my Spanish vocabulary and syntax}
 * The Goldfinch by Donna Tartt {Personally recommended by H.M.}
