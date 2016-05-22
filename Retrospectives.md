@@ -1,6 +1,6 @@
 # Retrospectives
 
-## Jan 1 - May 22nd
+## Jan 1st - May 22nd
 Up until now I've finished reading the following books:
 * [100% done on February 15th] "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character by Richard Feynman
 * [100% done on March 20th] Understanding Comics: The Invisible Art by Scott McCloud
