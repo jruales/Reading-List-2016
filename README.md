@@ -58,7 +58,7 @@
 * Mindset: The New Psychology of Success by Carol Dweck {Advocated by Khan Academy and recommended on Gates Notes blog}
 * Barron's AP Biology by Deborah T. Goldberg
 
-### Non-Fiction -- Biographical/Historical
+### Biographical/Historical
 * [100% done on June 4th] "Logicomix": An Epic Search For Truth by Apostolos Doxiadis and Christos H. Papadimitriou with art by Alecos Papadatos and Annie Di Donna
 * [100% done on February 15th] "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character by Richard Feynman {Recommended on Andrej Karpathy's Goodreads reviews}
 * Buffett: The Making of an American Capitalist by Roger Lowenstein {Personally recommended by M.C. in late 2015}
