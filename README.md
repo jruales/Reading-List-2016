@@ -83,6 +83,10 @@
 * {Some book on AWS}
 * {Some book on Hadoop, Hive, Spark, and such}
 
+### Linguistics
+* Phonetics: Transcription, Production, Acoustics, and Perception by Heening Reetz
+* Exercises in French Phonics by Francis W. Nachtmann
+
 ### Piano
 * The Virtuoso Pianist in 60 Exercises by Charles-Louis Hanon
 * Mikrokosmos by Béla Bartók {Personally recommended by R.R. in early 2016}
