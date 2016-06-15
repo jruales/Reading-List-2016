@@ -247,6 +247,7 @@
 	* Tutorial: Large-Scale Distributed Systems for Training Neural Networks
 	* Tutorial: Deep Learning
 * OpenAI Gym - https://gym.openai.com/
+* A gallery of interesting IPython Notebooks - https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
