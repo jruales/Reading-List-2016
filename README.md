@@ -79,6 +79,7 @@
 * Reinforcement Learning: An Introduction (e-book) by Richard S. Sutton and Andrew G. Barto - https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html
 * Pattern Recognition and Machine Learning by Christopher Bishop {Recommended to me by several professors}
 * Convex Optimization: Algorithms and Complexity by Sébastien Bubeck http://arxiv.org/pdf/1405.4980.pdf
+* Good books for all things data - http://multithreaded.stitchfix.com/blog/2016/06/09/ds-books/
 * {Some book on OpenCV in Python}
 * {Some book on AWS}
 * {Some book on Hadoop, Hive, Spark, and such}
