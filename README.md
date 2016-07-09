@@ -66,6 +66,7 @@
 
 ### Non-Fiction -- Other
 * Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves {Personally recommended by M.C. in early 2016}
+* Profiles of the Future by Arthur C. Clarke {Recommended on Andrej Karpathy's Goodreads reviews}
 
 
 
