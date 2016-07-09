@@ -81,6 +81,7 @@
 * Pattern Recognition and Machine Learning by Christopher Bishop {Recommended to me by several professors}
 * Convex Optimization: Algorithms and Complexity by Sébastien Bubeck http://arxiv.org/pdf/1405.4980.pdf
 * Good books for all things data - http://multithreaded.stitchfix.com/blog/2016/06/09/ds-books/
+* Neural Networks and Deep Learning by Michael Nielsen - http://neuralnetworksanddeeplearning.com/
 * {Some book on OpenCV in Python}
 * {Some book on AWS}
 * {Some book on Hadoop, Hive, Spark, and such}
