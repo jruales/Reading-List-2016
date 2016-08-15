@@ -267,6 +267,7 @@
 
 ### Misc. Computer Science
 * Pablo Estrada - Bit y Byte - http://bitybyte.github.io/ {in Spanish}
+* Explained Visually - http://setosa.io/ev/
 
 
 
