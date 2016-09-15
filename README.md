@@ -269,6 +269,11 @@
 * Pablo Estrada - Bit y Byte - http://bitybyte.github.io/ {in Spanish}
 * Explained Visually - http://setosa.io/ev/
 
+## Music
+* Learn to play the following {Personally recommended by J.D. in late 2016}
+  * Bach 2 Part Inventions and Sinfonias - https://www.youtube.com/watch?v=iHNxdOTFt7c
+  * Johann Sebastian Bach - Prelude and Fugue in A minor BWV 543 - https://www.youtube.com/watch?v=_7u6jptcpqg
+
 
 
 
