@@ -43,6 +43,7 @@
 
 ### Fiction
 * [100% done on May 20, 2016] Flatland: A romance of many dimensions by Edwin A. Abbott {Personally recommended by G.C. 🦀 many years ago}
+* [100% done on Nov 1, 2016]  {Personally recommended by an employee on a brick-and-mortar Amazon bookstore, after he saw I was about to buy "Understanding Comics"}
 * [4% done] Ready Player One by Ernest Cline {Recommended on Andrej Karpathy's Goodreads reviews}
 * El héroe discreto by Mario Vargas Llosa {Personally recommended by C.S. in early 2016 to enrich my Spanish vocabulary and syntax}
 * The Goldfinch by Donna Tartt {Personally recommended by H.M.}
@@ -50,9 +51,9 @@
 
 ### Non-Fiction -- Instructive
 * [100% done on March 20th] Understanding Comics: The Invisible Art by Scott McCloud {Recommended on Bret Victor's website, I found out about it in early 2016}
+* [100% done on October 14] Don't Make Me Think: A Common Sense Approach to Web Usability by Steve Krug {Recommended on Coursera's HCI course?}
 * [35% done] How To Win Friends and Influence People by Dale Carnegie {Personally recommended by M.Y. in 2015}
 * [32% done] The Design of Everyday Things by Donald ("Don") Norman {Recommended on Coursera's HCI course I took several years ago}
-* [100% done on October 14] Don't Make Me Think: A Common Sense Approach to Web Usability by Steve Krug {Recommended on Coursera's HCI course?}
 * Rocket Surgery Made Easy by Steve Krug {Probably advertised within "Don't Make Me Think"}
 * Moonwalking with Einstein by Joshua Foer {Mentioned in passing by M.C. in late 2015}
 * Mindset: The New Psychology of Success by Carol Dweck {Advocated by Khan Academy and recommended on Gates Notes blog}
@@ -175,80 +176,11 @@
 * otoro.net Blog - http://blog.otoro.net/
 * Stan User's Guide and Reference Manual - http://mc-stan.org/documentation/
 * Tensorflow tutorials - https://www.tensorflow.org/versions/master/tutorials/index.html
-  * Deep MNIST for Experts
-  * TensorFlow Mechanics 101
-  * Convolutional Neural Networks
-  * Vector Representations of Words
-  * Recurrent Neural Networks
-  * Sequence-to-Sequence Models
-  * Mandelbrot Set
-  * Partial Differential Equations
-  * Image Recognition
 * Torch tutorials - http://torch.ch/
 * Notes by Anima Anandkumar on NIPS 2015 workshop on non-convex optimization - http://www.offconvex.org/2016/01/25/non-convex-workshop/
 * NIPS 2015 Videos: https://nips.cc/Conferences/2015/Schedule
 * Neural Network playground in JS - http://playground.tensorflow.org/
 * Microsoft Research NIPS 2015 Videos - http://research.microsoft.com/apps/catalog/default.aspx?t=videos
-	* Symposium: Deep Learning - Panel Discussion
-	* Symposium: Deep Learning - Emily Denton
-	* Symposium: Brains, Minds and Machines - Panel
-	* Symposium: Deep Learning - Leon Gatys
-	* Symposium: Brains, Minds and Machines - Joshua Tenenbaum
-	* Symposium: Deep Learning - Pieter Abbeel
-	* Symposium: Deep Learning - David Sontag
-	* Symposium: Algorithms Among Us - Percy Liang
-	* Symposium: Deep Learning - Alex Graves
-	* Symposium: Brains, Minds and Machines - Demis Hassabis
-	* Symposium: Algorithms Among Us - Nick Bostrom
-	* Symposium: Deep Learning - Panel
-	* Symposium: Deep Learning - Trevor Darrell
-	* Symposium: Algorithms Among Us - Panel “Human-level AI – if, how, and when?”
-	* Symposium: Deep Learning - Xiaogang Wang
-	* Symposium: Brains, Minds and Machines - Andrew Saxe
-	* Symposium: Brains, Minds and Machines - Surya Ganguli
-	* Symposium: Deep Learning - Harri Valpola
-	* Symposium: Algorithms Among Us - Panel "Near-term issues"
-	* Symposium: Deep Learning - Sergey Ioffe
-	* Symposium: Algorithms Among Us - Ian Kerr
-	* Symposium: Deep Learning - Max Jaderberg
-	* Symposium: Algorithms Among Us - Erik Brynjolfsson
-	* Symposium: Brains, Minds and Machines - Christof Koch
-	* Symposium: Brains, Minds and Machines - Gabriel Kreiman
-	* Symposium: Deep Learning - Welcome
-	* Symposium: Algorithms Among Us - Intro & Tom Dietterich
-	* Symposium: Brains, Minds and Machines - Tomaso Poggio
-	* Oral Session: Less is More: Nyström Computational Regularization
-	* Invited Talk: Learning with Intelligent Teacher: Similarity Control and Knowledge Transfer
-	* NIPS Poster Spotlight Session 8
-	* Oral Session: Efficient Exact Gradient Update for training Deep Networks with Large Sparse Targets
-	* Invited Talks: Computational Principles for Deep Neuronal Architectures
-	* NIPS Poster Spotlight Session 7
-	* Oral Session: Attractor Network Dynamics Enable Preplay and Rapid Path Planning
-	* Oral Session: A Reduced-Dimension fMRI Shared Response Model
-	* NIPS Poster Spotlight Session 6
-	* Oral Session: End-To-End Memory Networks
-	* Oral Session: Deep Visual Analogy-Making
-	* NIPS Poster Spotlight Session 5
-	* Oral Session: Learning Theory and Algorithms for Forecasting Non-stationary Time Series
-	* Invited Talk: Post-selection Inference for Forward Stepwise Regression, Lasso and other procedures
-	* NIPS Poster Spotlight Session 4
-	* Oral Session: Competitive Distribution Estimation: Why is Good-Turing Good
-	* Oral Session: Interactive Control of Diverse Complex Characters with Neural Networks
-	* Oral Session: Fast Convergence of Regularized Learning in Games
-	* NIPS Poster Spotlight Session 3
-	* Oral Session: Probabilistic Line Searches for Stochastic Optimization
-	* Oral Session: COEVOLVE- A Joint Point Process Model for Info Diffusion and Network Co-evolution
-	* Invited Talk: Incremental Methods for Additive Cost Convex Optimization
-	* NIPS Poster Spotlight Session 2
-	* Oral Session: Solving Random Quadratic Systems of Equations-Nearly as Easy as Solving Linear Systems
-	* Oral Session: Sampling from Probabilistic Submodular Models
-	* Oral Session: Randomized Block Krylov Methods
-	* Posner Lecture: Probabilistic Machine Learning - Foundations and Frontiers
-	* Tutorial: High-Performance Hardware for Machine Learning
-	* -> Tutorial: Introduction to Reinforcement Learning with Function Approximation
-	* Tutorial: Monte Carlo Inference Methods
-	* Tutorial: Large-Scale Distributed Systems for Training Neural Networks
-	* Tutorial: Deep Learning
 * OpenAI Gym - https://gym.openai.com/
 * A gallery of interesting IPython Notebooks - https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
 
