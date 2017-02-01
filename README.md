@@ -259,6 +259,7 @@
 * Columbia University - David Blei - Probabilistic Models for Discrete Data - F Mudd 633 - http://www.cs.columbia.edu/~blei/seminar/2016_discrete_data/index.html
 * Columbia University - David Blei - Truth in Data - http://www.cs.columbia.edu/~blei/seminar/2015_truth_in_data/
 * Columbia University - Shree Nayar - Computational Imaging
+* Columbia University - John Paisley - COMS W4721 Spring 2017 Machine Learning for Data Science - http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/W4721Spring2017.html
 * Cornell University - Steve Marschner - CS6630 Realistic Image Synthesis
   * Fall 2015: http://www.cs.cornell.edu/Courses/cs6630/2015fa/ 
   * Spring 2012: http://www.cs.cornell.edu/Courses/cs6630/2012sp/
@@ -273,6 +274,7 @@
 * Stanford University - Matthew Hoffman - Statistics 300: Advanced topics in Statistics: Bayesian nonparametrics - Summer 2013 - http://www.cs.princeton.edu/~mdhoffma/stat300/index.html
 * University College London - David Silver (One of the DeepMind guys who worked on the AlphaGo AI) - Advanced Topics: Reinforcement Learning - http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 * University of California, Berkeley - stat212b Spring 2016 - Topics Course on Deep Learning - https://github.com/joanbruna/stat212b
+* University of California, Berkeley - CS 294: Deep Reinforcement Learning, Spring 2017 - http://rll.berkeley.edu/deeprlcourse/
 * University of Oxford - Nando di Freitas - Machine Learning (includes Neural Networks in Torch, RNNs and LSTMs, Alex Graves's handwritten recognition, variational autoencoders, reinforcement learning) - https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 
 ### Taken Before (Review These)
